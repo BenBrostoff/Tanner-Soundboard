@@ -1,12 +1,18 @@
 body {
-  background-color: #FFFFFF   ;
+  background-color: #FFFFFF;
 }
 
 h1{
   text-align: center;
   margin-top: 7%;
   font-family: 'Lora', serif;
+  font-style: bold;
 }
+
+#tanner {
+  color: red;
+}
+
 .container {
   width: 85%;
   margin: 5% 17% 17% 17%;
@@ -15,14 +21,18 @@ h1{
 .big {
   padding: 3px;
   font-family: 'Lora', serif;
-  font-size: 1.0em;
+  font-size: 1.2em;
   margin: 0;
+  color: black;
+  font-style: bold;
   white-space: normal;
   vertical-align: top;
   display: inline-block;
   border-radius: 8px;
   box-shadow: 0 8px 0 #FEF5CA, 0 15px 20px rgba(0, 0, 0, .35);
+  background-image: url('https://pbs.twimg.com/profile_images/474677650955313152/AgbuxxeD.jpeg');
 }
+
 /*.row-1 {
   width: 20%%;
 }
