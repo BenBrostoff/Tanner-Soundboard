@@ -16,6 +16,8 @@ h1{
   white-space: normal;
   vertical-align: top;
   display: inline-block;
+  border-radius: 8px;
+  box-shadow: 0 8px 0 #FEF5CA, 0 15px 20px rgba(0, 0, 0, .35);
 }
 /*.row-1 {
   width: 20%%;
