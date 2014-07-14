@@ -1,0 +1,35 @@
+h1{
+  text-align: center;
+  margin-top: 7%;
+  font-family: 'Lora', serif;
+}
+.container {
+  width: 85%;
+  margin: 5% 17% 17% 17%;
+}
+
+.big {
+  padding: 3px;
+  font-family: 'Lora', serif;
+  font-size: 1.0em;
+  margin: 0;
+  white-space: normal;
+  vertical-align: top;
+  display: inline-block;
+}
+/*.row-1 {
+  width: 20%%;
+}
+
+.row-2 {
+  width: 20%;
+}
+
+.row-3 {
+  width: 20%;
+}
+*/
+.big {
+  height: 200px;
+  width: 200px;
+}
