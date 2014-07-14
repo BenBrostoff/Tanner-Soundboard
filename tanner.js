@@ -2,7 +2,7 @@ $(document).ready(function() {
 
   $("#test").click(function() {
     console.log("BOX 1");
-    document.getElementById('back_to_work').play();
+    document.getElementById('greg').play();
   });
 
   $("#test_2").click(function() {
